@@ -1,0 +1,6 @@
+echo "# UNICA_INVESTIGATION" >> https://pastebin.com/0zMAfNbM
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lkk74/UNICA_INVESTIGATION.git
+git push -u origin master
+PWD:R3m3mb3rm3!
